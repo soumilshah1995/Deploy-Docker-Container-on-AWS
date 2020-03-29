@@ -1,11 +1,12 @@
 # Deploy-Docker-Container-on-AWS
 Learn how to Deploy Docker Container on AWS 
 
+![image](https://user-images.githubusercontent.com/39345855/77860782-0c865f80-71df-11ea-822a-b544e4afaa47.png)
 
 
 
 
-### Tutorial Video :
+### Tutorial Video :  https://www.youtube.com/watch?v=awFLzy0XwXo
 
 
 ## Commands on Ubuntu Server  
